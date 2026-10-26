@@ -20,9 +20,9 @@ aberto no modo `"a"` (append).
 
 ```
 .
+├── README.md                 # este arquivo
 ├── cadastro_equipamentos.c   # codigo-fonte
-├── equipamentos.txt          # exemplo de arquivo de dados
-└── README.md                 # este arquivo
+└── equipamentos.txt          # exemplo de arquivo de dados
 ```
 
 ## Requisitos
