@@ -1,0 +1,4 @@
+Computador Dell OptiPlex;LAB-001;Laboratorio 1 - Bancada A
+Monitor LG 24 polegadas;LAB-002;Laboratorio 1 - Bancada A
+Projetor Epson X41;LAB-003;Laboratorio 2 - Teto
+Switch TP-Link 24 portas;LAB-004;Sala de Servidores
